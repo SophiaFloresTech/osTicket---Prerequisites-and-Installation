@@ -24,7 +24,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<h2>Steps For Installing osTicket:</h2>
 
 - Create virtual machine(VM) with windows OS on microsoft azure cloud or in any environment.
 <img src="https://i.imgur.com/L9I7wZt.png" />
